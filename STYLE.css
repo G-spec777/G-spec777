@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 0%;
+    font-size: medium;
+
+}
+table {
+    width: 400;
+    border-collapse: collapse;
+    table-layout: fixed;
+    padding: 10px, 5px, 5px,10px;
+}
+th, td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    height: 30px;
+    vertical-align: middle;
+}
+th {
+    background-color: #777676;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+.lunch {
+    background-color: #b3adad;
+    border-bottom: hidden;
+}
+.form-time-column {
+    width: 60px;
+    background-color: #352e2e;
+    font-weight: bold;
+}
